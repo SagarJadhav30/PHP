@@ -1,8 +1,3 @@
-# Sj Project
-
-## Short Description
-A simple PHP project with a single index.php and style.css, suitable for local development and demonstration purposes.
-
 ## Features
 - Basic PHP web page (index.php)
 - Custom styling (style.css)
