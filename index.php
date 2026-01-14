@@ -84,6 +84,6 @@ $con->close();
 
   <!-- INSERT INTO `trip` (`Sr.No`, `Name`, `age`, `gender`, `email`, `phone`, `other_info`, `Date`) VALUES ('1', 'sagar jadhav', '21', 'male ', 'sagar@gmail.com', '9356248642', 'hello  ', current_timestamp()); -->
 
-</div>
+    </div>
 </body>
 </html>
